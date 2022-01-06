@@ -10,15 +10,15 @@ export default function Header() {
             <div className="header--informations">
                 <h1>Friedrich Artúr</h1>
                 <h2>Frontend Developer</h2>
-                <a href="friedrichartur.com">
+                <a href="friedrichartur.com" target="_blank">
                     <h3>friedrichartur.com</h3>
                 </a>
             </div>
             <div className="header--contacts">
-                <a className="header--email" href="mailto:artur.friedrich.harka@gmail.com">
+                <a className="header--email" href="mailto:artur.friedrich.harka@gmail.com" target="_blank">
                     <img src={EmailIcon} />Email
                 </a>
-                <a className="header--linkedin" href="https://www.linkedin.com/in/friedrich-art%C3%BAr-6840201a1/">
+                <a className="header--linkedin" href="https://www.linkedin.com/in/friedrich-art%C3%BAr-6840201a1/" target="_blank">
                     <img src={LinkedInIcon} />LinkedIn
                 </a>
             </div>
