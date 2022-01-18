@@ -13,7 +13,7 @@ export default function Main() {
             <h1>Interests</h1>
             <p>
                 Reading. Hiking. Listening to music. Coding. Blogging.
-                Photography. Sport. Science. Cooking. Art.
+                Photography. Sport. Science. Cooking. Art. Bicycling. Drawing.
             </p>
         </main>
     )
