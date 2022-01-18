@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/virtual-business-card/static/css/main.f333cef2.css",
+    "main.js": "/virtual-business-card/static/js/main.26e63432.js",
+    "static/media/friedrich_artur.png": "/virtual-business-card/static/media/friedrich_artur.b3b77c393c445e6dda87.png",
+    "index.html": "/virtual-business-card/index.html",
+    "main.f333cef2.css.map": "/virtual-business-card/static/css/main.f333cef2.css.map",
+    "main.26e63432.js.map": "/virtual-business-card/static/js/main.26e63432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f333cef2.css",
+    "static/js/main.26e63432.js"
+  ]
+}
